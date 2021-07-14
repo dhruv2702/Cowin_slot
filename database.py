@@ -1,3 +1,5 @@
+''' for creating states database '''
+
 import json
 import requests
 import webbrowser
